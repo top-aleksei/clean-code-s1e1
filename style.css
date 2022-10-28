@@ -35,14 +35,14 @@
 .add-task-form {
   display: flex;
 }
-ul {
+.list {
   margin:0;
   padding: 0px;
 }
-li, h3 {
+.list__item, .app__title {
   list-style:none;
 }
-input,button{
+.task__edition,.button{
   outline:none;
 }
 .button {
